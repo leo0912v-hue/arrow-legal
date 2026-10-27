@@ -2,11 +2,23 @@
 
 Static GitHub Pages site for product privacy policies, support pages, and terms of use.
 
-## Current product
+## Products
 
 - `meowline-arrow-escape/privacy-policy.html`
 - `meowline-arrow-escape/support.html`
 - `meowline-arrow-escape/terms-of-use.html`
+- `arrow-puzzle-save-the-animals/privacy-policy.html`
+- `arrow-puzzle-save-the-animals/support.html`
+- `arrow-puzzle-save-the-animals/terms-of-use.html`
+- `up-line-escape/privacy-policy.html`
+- `up-line-escape/support.html`
+- `up-line-escape/terms-of-use.html`
+
+Public URLs for UP LINE ESCAPE:
+
+- <https://leo0912v-hue.github.io/arrow-legal/up-line-escape/privacy-policy.html>
+- <https://leo0912v-hue.github.io/arrow-legal/up-line-escape/support.html>
+- <https://leo0912v-hue.github.io/arrow-legal/up-line-escape/terms-of-use.html>
 
 ## GitHub Pages setup
 
